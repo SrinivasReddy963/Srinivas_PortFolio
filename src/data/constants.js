@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SrinivasReddy963",
   resume:
-    "https://drive.google.com/file/d/1xPtDBoS9_XV-CT_zqsXJ7mMoPW1dMtfq/view?usp=drive_link",
+    "https://drive.google.com/file/d/1StSAwA5td_yoS1uUlcLEALpNagd6Tzm4/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/kadire-srinivas-reddy-7186371b6/",
   twitter: "https://x.com/Venkyreddy_963",
   insta: "https://www.instagram.com/kadire_srinivas_reddy/",
