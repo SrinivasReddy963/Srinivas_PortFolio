@@ -1,7 +1,7 @@
 {
-  "name": "rishav-chanda-portfolio",
+  "name": "srinivas-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
+  "homepage": "https://srinivas-port-folio.vercel.app/",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
@@ -23,6 +23,7 @@
     "react-scroll": "^1.8.7",
     "styled-components": "^5.3.5",
     "typewriter-effect": "^2.19.0",
+    "vercel": "^34.2.8",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -30,8 +31,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
