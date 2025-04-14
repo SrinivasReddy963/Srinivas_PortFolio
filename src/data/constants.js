@@ -176,7 +176,7 @@ export const education = [
 
     school: "TRR College of Technolgy",
     date: "June 2018 - Apr 2021",
-    grade: "77.2%",
+    grade: "77.3%",
     desc: "I completed my class 12 high school education at TRR college of Technology, Hyderabad, where I studied Computer Engineering. where I learn programming languages like C , C++ , C# , Java & python . And in database I learn SQL.",
     degree: "Diploma, Computer Engineering",
   },
@@ -194,6 +194,19 @@ export const education = [
 export const projects = [
   {
     id: 5,
+    title: "Srinivas-Portfolio",
+    date: "Jun 2024",
+    description:
+      " Welcome to my personal portfolio! I'm Kadire Srinivas Reddy, a passionate full-stack developer with hands-on experience in building dynamic and responsive web applications using technologies like React.js, TypeScript, Node.js, and Python. From creating intuitive UIs to integrating complex backend logic, I enjoy crafting digital solutions that are both functional and user-friendly. My portfolio showcases a range of projects, including real estate platforms like PrimeSquareFeet and productivity tools like Wilya, as well as my work with SharePoint Framework and Power Platform. With a strong foundation in programming languages like C, C++, and Python, and experience working in Agile environments, I’m constantly exploring new challenges and opportunities to innovate. Feel free to explore my work and reach out—I'm always excited to collaborate and build impactful tech solutions.",
+    image:
+      "https://res.cloudinary.com/dzu0odjcc/image/upload/v1744613444/Screenshot_2025-04-14_121629_ssm6z3.png",
+    tags: ["HTML", "CSS", "Javascript", "TypeScript", "React Js"],
+    category: "web app",
+    github: "https://github.com/SrinivasReddy963/Srinivas_PortFolio",
+    webapp: "https://srinivas-port-folio.vercel.app/",
+  },
+  {
+    id: 5,
     title: "Virtual Physiotherapy Assistant",
     date: "July 2024",
     description:
@@ -201,7 +214,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dzu0odjcc/image/upload/v1740464255/images_fr88o4.jpg",
     tags: ["Python", "Keras", "Tensor Flow", "VGG16", "Pickle", "React"],
-    category: "Machine Learning ",
+    category: "Machine  Learning ",
     github: "https://github.com/SrinivasReddy963/physiotherapymate",
     webapp: "https://github.com/SrinivasReddy963/physiotherapymate",
   },
