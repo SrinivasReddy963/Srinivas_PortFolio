@@ -1,8 +1,8 @@
 export const Bio = {
   name: "K Srinivas Reddy",
-  roles: ["Software Developer", "Full Stack Developer", "Programmer"],
+  roles: ["Software Developer", "Aspiring FCCM & OFSAA Developer", "Aspiring AML Developer"],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    "I am a Software Developer and technology enthusiast with a passion for delivering high-quality solutions. I bring expertise in Full-Stack Web Development, SharePoint Framework, and Machine Learning, complemented by a solid foundation in C, C++, Python, SQL, and PL/SQL. Currently, I am enhancing my skill set with Financial Crime and Compliance Management (FCCM) and Oracle Financial Services Analytical Applications (OFSAA), mastering all modules and scenarios to tackle complex fintech and compliance challenges.",
   github: "https://github.com/SrinivasReddy963",
   resume:
     "https://drive.google.com/file/d/1StSAwA5td_yoS1uUlcLEALpNagd6Tzm4/view?usp=drive_link",
@@ -27,6 +27,7 @@ export const skills = [
       },
       {
         name: "Typescript",
+        image:"https://i.postimg.cc/SQwjZfLd/ts-logo-128.png"
       },
 
       {
@@ -64,6 +65,7 @@ export const skills = [
       },
       {
         name: "C#",
+        image:"https://i.postimg.cc/W4HsdsX8/C-image.png"
       },
 
       {
@@ -95,7 +97,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://i.postimg.cc/T18GcC8W/GIT.png",
       },
       {
         name: "GitHub",
@@ -116,8 +118,20 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://i.postimg.cc/sx9F4z9t/Postman.png",
       },
+      {
+        name:"OFSAA FCCM",
+        image:"https://i.postimg.cc/k4QYkc6S/oracle-financial.png"
+      },
+      {
+        name:"AML Scenarios & ECM",
+        image:"https://i.postimg.cc/QxxYycXB/AML.png"
+      },
+      {
+        name:"SQL & PL/SQL(AML , KYC & Compliance)",
+        image:"https://i.postimg.cc/TwJQk3Fq/sql.png"
+      }
     ],
   },
 ];
@@ -159,6 +173,29 @@ export const experiences = [
       "SPFX",
     ],
   },
+   {
+    id: 1,
+    role: "Software Developer  (Full Time)",
+    company: "Vidardi Institutions Pvt",
+    date: "Jan 2025 - Present",
+    desc: "As a software developer, I gained valuable experience working on two key projects at a startup: a job portal project and a T-sign project. These projects helped me strengthen my full-stack skills, utilizing React for front-end development and a range of back-end technologies. For the job portal project, I created a dynamic, user-friendly interface in React, ensuring a maintainable and responsive structure, while developing secure APIs in C# to handle data flow, deepening my understanding of backend integration and RESTful services. Additionally, I implemented database management with SQL to support the project’s functionality. In contrast, my work on the T-sign project involved a full-stack approach, where I designed an intuitive React interface with custom components to enhance usability and visual appeal, while also building back-end logic in Python and integrating it with a MongoDB database to ensure seamless data handling. These experiences honed my adaptability, quick learning, and attention to detail. My skills in React, C#, Python, SQL, and MongoDB reflect my commitment to creating high-quality, user-centered applications. Currently, I am expanding my expertise by learning OFSAA FCCM, mastering all scenarios and cases of it to further enhance my capabilities in compliance and financial technology as I launch my career in software development.",
+    skills: [
+  "ReactJS",
+  "TypeScript",
+  "JavaScript",
+  "RESTful APIs",
+  "SQL & PL/SQL",
+  "Python",
+  "MongoDB",
+  "Full-Stack Development",
+  "Git",
+  "Agile Methodologies",
+  "OFSAA FCCM",
+  "Compliance & Financial Technology",
+  "AML"
+],
+
+  }
 ];
 
 export const education = [
