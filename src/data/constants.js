@@ -153,32 +153,26 @@ export const experiences = [
       "JavaScript",
     ],
   },
-  {
-    id: 1,
-    role: "Software Developer  (Full Time)",
-    company: "InnoRidge Solutions",
-    date: "July 2024 - Dec 2024",
-    desc: "As a software developer , I gained valuable experience working on two key projects at a startup: a client-specific project and a real estate website. These projects helped me strengthen my front-end skills with React, alongside some back-end experience in C# for one project. For the client project, I created a dynamic, user-friendly interface in React, ensuring a maintainable and responsive structure. I developed secure APIs in C# to handle data flow, which broadened my understanding of backend integration and RESTful services. In contrast, my work on the real estate website focused solely on the front end. I designed an intuitive React interface, building custom components to enhance usability and visual appeal, making property browsing easy and engaging. These experiences honed my adaptability, quick learning, and attention to detail. My skills in React and C# reflect my commitment to creating high-quality, user-centered applications as I launch my career in software development.",
-    skills: [
-      "ReactJS",
-      "Typescript",
-      "C#",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "SQL",
-      "Deveops",
-      "Sharepoint Framework",
-      "SPFX",
-    ],
-  },
+ 
    {
     id: 1,
     role: "Software Developer  (Full Time)",
     company: "Vidardi Institutions Pvt",
-    date: "Jan 2025 - Present",
-    desc: "As a software developer, I gained valuable experience working on two key projects at a startup: a job portal project and a T-sign project. These projects helped me strengthen my full-stack skills, utilizing React for front-end development and a range of back-end technologies. For the job portal project, I created a dynamic, user-friendly interface in React, ensuring a maintainable and responsive structure, while developing secure APIs in C# to handle data flow, deepening my understanding of backend integration and RESTful services. Additionally, I implemented database management with SQL to support the project’s functionality. In contrast, my work on the T-sign project involved a full-stack approach, where I designed an intuitive React interface with custom components to enhance usability and visual appeal, while also building back-end logic in Python and integrating it with a MongoDB database to ensure seamless data handling. These experiences honed my adaptability, quick learning, and attention to detail. My skills in React, C#, Python, SQL, and MongoDB reflect my commitment to creating high-quality, user-centered applications. Currently, I am expanding my expertise by learning OFSAA FCCM, mastering all scenarios and cases of it to further enhance my capabilities in compliance and financial technology as I launch my career in software development.",
+    date: "April 2024 - Present",
+    desc: `
+As a Software Developer at Vidyardi Institutions Pvt. Ltd., I have gained extensive hands-on experience working on multiple full-stack projects, including a job portal, T-Sign (Govt project), and Wilya collaboration platform. These projects strengthened my ability to build scalable and efficient web applications using React.js, TypeScript, and Node.js, while integrating robust backend services with Express.js, C#, and PostgreSQL.
+
+In the Job Portal Project, I developed a dynamic and responsive user interface using React, ensuring accessibility and maintainability, while building secure RESTful APIs in C# and managing relational data with SQL. This enhanced my understanding of API integration, data flow optimization, and backend scalability.
+
+For the T-Sign project, I adopted a full-stack development approach, designing an intuitive interface in React with custom reusable components to improve user interaction and visual consistency. On the backend, I implemented business logic using Python and integrated it with MongoDB, ensuring smooth data exchange and real-time responsiveness.
+
+Additionally, I contributed to the Wilya platform, focusing on collaborative features and UI performance improvements using React and TypeScript, achieving better engagement and accessibility across multiple devices.
+
+Alongside my development work, I have been deeply involved in learning and implementing Oracle Financial Services Analytical Applications (OFSAA FCCM) modules — including Anti-Money Laundering (AML), Know Your Customer (KYC), Transaction Monitoring, Sanctions Screening, and Regulatory Reporting. This has provided me with a strong understanding of compliance frameworks, fraud detection workflows, and data-driven risk scoring within financial systems.
+
+These experiences have refined my technical versatility across React.js, TypeScript, Node.js, C#, Python, SQL, PL/SQL, MongoDB, and PostgreSQL, while also building a foundation in compliance technology. I am passionate about merging software engineering and financial compliance analytics to create secure, efficient, and user-centered enterprise solutions.
+`,
+
     skills: [
   "ReactJS",
   "TypeScript",
@@ -190,9 +184,15 @@ export const experiences = [
   "Full-Stack Development",
   "Git",
   "Agile Methodologies",
-  "OFSAA FCCM",
-  "Compliance & Financial Technology",
-  "AML"
+  "OFSAA FCCM (Oracle Financial Services Analytical Applications)",
+  "AML (Anti-Money Laundering)",
+  "KYC (Know Your Customer)",
+  "ECM (Enterprise Case Management)",
+  "Oracle Database",
+  "Transaction Monitoring",
+  "Sanctions Screening"
+  
+  
 ],
 
   }
