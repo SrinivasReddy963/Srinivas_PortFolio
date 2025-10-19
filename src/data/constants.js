@@ -5,7 +5,7 @@ export const Bio = {
     "I am a Software Developer and technology enthusiast with a passion for delivering high-quality solutions. I bring expertise in Full-Stack Web Development, SharePoint Framework, and Machine Learning, complemented by a solid foundation in C, C++, Python, SQL, and PL/SQL. Currently, I am enhancing my skill set with Financial Crime and Compliance Management (FCCM) and Oracle Financial Services Analytical Applications (OFSAA), mastering all modules and scenarios to tackle complex fintech and compliance challenges.",
   github: "https://github.com/SrinivasReddy963",
   resume:
-    "https://drive.google.com/file/d/1lp9j0pLompcWNnppsEY_PzKVAUmtX9YY/view",
+    "https://drive.google.com/file/d/11aHisGFSRdnLMYUCyNcME2HEjUOPcRkV/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/kadire-srinivas-reddy-7186371b6/",
   twitter: "https://x.com/Venkyreddy_963",
   insta: "https://www.instagram.com/kadire_srinivas_reddy/",
